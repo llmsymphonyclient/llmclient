@@ -68,5 +68,3 @@ LLMSymphony is a Windows application for private chats with leading AI models us
 ## About
 
 Developed by a New Zealand-based IT professional with over a decade of experience in high-security environments, LLMSymphony brings enterprise-grade privacy controls to AI conversations.
-
-## Contact
