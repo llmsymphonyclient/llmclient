@@ -6,6 +6,9 @@
 One Secure Chat. Multiple AI Models. Your API Key.
 
 > "Empowering professionals and enthusiasts who value privacy and control - to have conversations with frontier AI models while minimizing exposure to data breaches and information harvesting."
+<p>
+ 
+This is the **first** and **only** Incognito by default GPT chat client available
 
 ## Overview
 
