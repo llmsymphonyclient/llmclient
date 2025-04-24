@@ -9,7 +9,7 @@ One Secure Chat. Multiple AI Models. Your API Key.
 
 ## Overview
 
-LLMSymphony is a secure universal Windows application for private chats with leading AI models using your own API keys. Enjoy direct, encrypted conversations with ChatGPT, Claude, Grok, DeepSeek & Gemini while maintaining complete control over your data.
+LLMSymphony is a Windows application for private chats with leading AI models using your own API keys. Enjoy direct, encrypted conversations with ChatGPT, Claude, Grok, DeepSeek & Gemini while maintaining complete control over your data.
 
 ## Free Download
 
