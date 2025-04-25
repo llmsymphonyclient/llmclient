@@ -24,25 +24,25 @@ LLMSymphony is a Windows application for private chats with leading AI models us
 
 ![Screenshot-1 (Top 3 Reasons)](https://github.com/user-attachments/assets/8b394a07-0476-46dc-b0bd-a44d8a8dc023)
 
->Chat Interface - Efficient and Simple
+>Chat Interface: Efficient and Simple
 
 ![Screenshot-4 (Model Picker)](https://github.com/user-attachments/assets/51304640-1fd8-425a-bd90-5d5345d670d4)
->Chat Interface - Multi-Provider, Multi AI Model Switching
+>Chat Interface: Multi-Provider, Multi AI Model Switching
 
 ![Screenshot-5 (Thinking)](https://github.com/user-attachments/assets/57c66cf5-e0a1-42e6-a2e4-bcf37a87da71)
->Chat Interface - Switch to Secondary AI Model (E.g. Deepthink for DeekSeek)
+>Chat Interface: Switch to Secondary AI Model (E.g. Deepthink for DeekSeek)
 
 ![Screenshot-2 (Add Profile)](https://github.com/user-attachments/assets/23386aba-cff9-4e5b-8a3d-0f9c5d937c86)
 >Settings Interface: Pre-configured with the most powerful AI models
 
 ![Screenshot-3 (API Test)](https://github.com/user-attachments/assets/fc8f6620-9623-464b-a1f3-242870d74120)
->Settings Interface - Checks for API Key and Model Validity
+>Settings Interface: Checks for API Key and Model Validity
 
 ![Screenshot-6 (Privacy)](https://github.com/user-attachments/assets/1908d5a5-bb37-4638-a844-06da5be6af7d)
->Chat Interface - Data Protection Status (Encrypted Chats / API Keys)
+>Chat Interface: Data Protection Status (Encrypted Chats / API Keys)
 
 ![Screenshot-7 (Screenshot)](https://github.com/user-attachments/assets/0ef76ce0-61d9-4cfd-ab05-ef70a993d319)
->Chat Interface - Extract Chat to Screenshot (e.g. Copying into Reddit / Forums)
+>Chat Interface: Extract Chat to Screenshot (e.g. Copying into Reddit / Forums)
 
 ## Key Benefits
 
