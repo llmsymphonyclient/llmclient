@@ -68,6 +68,10 @@ LLMSymphony is a Windows application for private chats with leading AI models us
 - Built-in API key validator
 - Flexible endpoint configuration
 
+## Help
+
+[Help Documentation](https://llmsymphony.io/doc)
+
 ## About
 
 Developed by a New Zealand-based IT professional with over a decade of experience in high-security environments, LLMSymphony brings enterprise-grade privacy controls to AI conversations.
