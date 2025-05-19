@@ -12,7 +12,7 @@ This is the **first** and **only** Incognito by default GPT chat client availabl
 
 ## Overview
 
-LLMSymphony is a Windows application for private chats with leading AI models using your own API keys. Enjoy direct, encrypted conversations with ChatGPT, Claude, Grok, DeepSeek & Gemini while maintaining complete control over your data.
+LLMSymphony is a Windows application for private chats with leading AI models using your own API keys. Enjoy direct, encrypted conversations with ChatGPT, Claude, Grok, DeepSeek & Gemini while maintaining control over your data.
 
 ## Free Download
 
@@ -53,7 +53,7 @@ LLMSymphony is a Windows application for private chats with leading AI models us
 - Stronger Privacy Policies: Developer API keys offer better data controls
 
 ### 🔀 Multi-Provider Support
-- Pre-configured for DeepInfra, Together.ai, OpenAI, Anthropic, X.ai and Google
+- Pre-configured for DeepInfra, Ai.Azure.com, Together.ai, OpenAI, Anthropic, X.ai and Google
 - Supports latest models: DeepSeek V3, GPT-4o, Claude 3, Grok 3, Gemini 2
 - Compatible with any OpenAI API spec server (including local LLMs)
 
